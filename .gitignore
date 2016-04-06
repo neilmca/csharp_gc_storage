@@ -1,28 +1,17 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
 *.dll
+*.mp3
+*.xap
+*.cache
+*.suo
+*.user
+Thumbs.db
+*/Bin/*
+*/bin/*
+*/Obj/*
+*/obj/*
+*.p12
+[Bb]in/
+[Oo]bj/
 
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# NuGet Packages Directory
+packages
